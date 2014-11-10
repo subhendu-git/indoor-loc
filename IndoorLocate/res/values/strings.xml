@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IndoorLocate</string>
+    <string name="calibrate_txt">Calibrate</string>
+    <string name="locate_txt">Locate</string>
+    <string name="img_desc">Davis Hall Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="loc0">C101</string>
+    <string name="loc1">C100</string>
+    <string name="loc2">S103</string>
+    <string name="loc3">101</string>
+    <string name="loc4">101 NE</string>
+    <string name="loc5">101 SE</string>
+    <string name="loc6">C102</string>
+    <string name="loc7">C100B</string>
+    <string name="loc8">106</string>
+    <string name="loc9">106 W</string>
+    <string name="loc10">106 S</string>
+    <string name="loc11">106 C</string>
+    <string name="loc12">113A N</string>
+    <string name="loc13">113A S</string>
+    <string name="loc14">C115 W</string>
+    <string name="loc15">C115</string>
+    <string name="record_txt">Stop</string>
+
+</resources>
